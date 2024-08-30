@@ -1,0 +1,8 @@
+python-dotenv
+psycopg2-binary
+SQLAlchemy
+pandas
+treelib
+colorama
+openai
+mysql-connector-python
